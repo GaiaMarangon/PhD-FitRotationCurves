@@ -1,0 +1,26 @@
+iterInt: 10		eigval: 4.6703979571e-01	R: 10.250000
+iterInt: 13		eigval: 4.4120936510e-01	R: 20.500000
+iterInt: 16		eigval: 5.3099036426e-02	R: 30.750000
+iterInt: 18		eigval: 9.3376031280e-03	R: 41.000000
+iterInt: 19		eigval: 3.9197630921e-04	R: 51.250000
+iterInt: 19		eigval: 1.6796524240e-03	R: 61.500000
+iterInt: 18		eigval: 1.9338745192e-03	R: 71.750000
+iterInt: 15		eigval: 1.6020475264e-03	R: 82.000000
+iterInt: 20		eigval: 1.0364676109e-03	R: 92.250000
+iterInt: 22		eigval: 4.5733346972e-04	R: 102.500000
+iterInt: 20		eigval: 1.1984451848e-04	R: 112.750000
+iterInt: 16		eigval: 1.9355442345e-05	R: 123.000000
+iterInt: 5		eigval: 1.6532825134e-06	R: 133.250000
+iterInt: 13		eigval: 9.8954273040e-07	R: 143.500000
+iterInt: 13		eigval: 1.2118259865e-06	R: 153.750000
+iterInt: 13		eigval: 1.3217182778e-06	R: 164.000000
+iterInt: 13		eigval: 1.4098616568e-06	R: 174.250000
+iterInt: 14		eigval: 1.5035542251e-06	R: 184.500000
+iterInt: 14		eigval: 1.5834231131e-06	R: 194.750000
+Applying fine resolution
+iterInt: 24		eigval: 1.5076455302e-05	R: 198.166667
+iterInt: 2		eigval: 7.3138717305e-11	R: 201.583333
+iterExt: 21
+
+
+Elapsed time: 41.751506
